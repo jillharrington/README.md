@@ -19,7 +19,7 @@ These are my answers to assignment 2:
   16) 5
   17) It says it is a list
   18) Yes it lists all integers between 0 and 100
-  19)see about_me.py
+  19) see about_me.py
   20) yes it was listed as a dictionary in the variable type
   21) The length is 4, determined by the number of things you list within the dictionary
   22) see array.py. It seperates the values and puts the type as an array of floats
