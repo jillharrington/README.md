@@ -13,11 +13,11 @@ These are my answers to assignment 2:
 Boolean exercises
   1) In python 1=1.0 but "1" does not equal "1.0". I think this is because although the values are the same the two integers are technically different
   2) Yes
-  3)print(1==1.0 or "1"=="1.0" or 5==(3+2)), print(1==1.0 and not "1"=="1.0" and 5==(3+2)), print(1==1.0 or "1"=="1.0" and 5==(3+2)) I could only come up with 3 ways 
-  1)Yes oddlist became a variable
-  2)No i did not get an error message
-  3)5
-  4)It says it is a list
+  4)(1==1.0 or "1"=="1.0" or 5==(3+2)), (1==1.0 and not "1"=="1.0" and 5==(3+2)), (1==1.0 or "1"=="1.0" and 5==(3+2)) I could only come up with 3 ways 
+  5)Yes oddlist became a variable
+  6)No i did not get an error message
+  7)5
+  8)It says it is a list
   5/6) Yes it lists all integers between 0 and 100
 Dictionary exercises
   1)see about_me.py
